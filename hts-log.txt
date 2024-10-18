@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Oct 2024 03:41:57 at https://thepizzaedition.github.io/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://thepizzaedition.github.io/index.html -O1 "C:\Users\Nicko\OneDrive\Desktop\Dice Hub" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:42:07	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/jsload/fpsCounter.js (from https://thepizzaedition.github.io/index.html)
+03:42:22	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/g/extra (from https://thepizzaedition.github.io/g/)
+03:42:27	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/loadjs/favicon.js (from https://thepizzaedition.github.io/settings/)
+03:42:27	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/settings/jsload/fpsCounter.js (from https://thepizzaedition.github.io/settings/)
+03:42:36	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/assets/allgames/motox3m3/get (from https://thepizzaedition.github.io/assets/allgames/motox3m3/index.html)
+03:42:36	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/manifest.json (from https://thepizzaedition.github.io/assets/allgames/retrobowlcollege/index.html)
+03:42:38	Error: 	"Not Found" (404) at link https://486017395-735910036185936427.preview.editmysite.com/uploads/b/139890129-378637188943279878/files/assets/images/rotate.png (from https://486017395-735910036185936427.preview.editmysite.com/uploads/b/139890129-378637188943279878/files/assets/css/app.css)
+03:42:38	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/progressEmpty.Light.png (from https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/style.css)
+03:42:38	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/progressFull.Light.png (from https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/style.css)
+03:42:38	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/webgl-logo.png (from https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/style.css)
+03:42:38	Error: 	"Not Found" (404) at link https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/fullscreen.png (from https://thepizzaedition.github.io/assets/allgames/Snow-Rider3D-main/TemplateData/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 seconds : 138 links scanned, 126 files written (17301235 bytes overall) [5628404 bytes received at 140710 bytes/sec], 14222669 bytes transferred using HTTP compression in 85 files, ratio 16%, 35.0 requests per connection
+(11 errors, 0 warnings, 0 messages)
